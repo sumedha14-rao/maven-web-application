@@ -9,8 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">this is devops practice</h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">THIS IS THE DEVOPS A SECTION</h1>
+<h1 align="center">KJDFKLGD LKFGDKL FGKDKLF GDKLFG DLKFGKLD FKDKLFG KDJFGLDRIPTJEIOFKLVMD GREKLGJJDF DGKREGDF KLFDJ </h1>
+<P>THIS I SIISSDKFM O PARAGRAPH OF INFORMATION </P>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
